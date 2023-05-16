@@ -1,0 +1,188 @@
+Wednesday, June 12, 2002
+
+10:16:29 AM Pig arrives (33 kg)
+
+10:20:23 AM Mechanical ventilation begnis (500 ml tidal volume; 7 second period)
+
+Maintenance fluid via right ear
+
+10:24:49 AM pulse oximeter placed on chin
+
+10:25:13 AM temperature probe placed in esophogus
+
+10:26:31 AM lead 1 ekg placed
+
+10:31:53 AM respiratory period 4 seconds
+
+10:33:17 AM Beginning left femoral cutdown
+
+10:44:45 AM  in the midst of right femoral cutdown
+
+11:30:42 AM Millar placed in left femoral
+
+11:35:23 AM fluid-filled catheter placed in right femoral
+
+11:37:21 AM beginning midline incision
+
+11:51:55 AM opening left pleura
+
+11:54:56 AM opening lower pericardium
+
+flow probe inserted before 12:52
+
+bladder catheterized
+
+01:10:23 PM Radial line inserted in upper right limb
+
+01:14:39 PM Pulmonary line inserted
+
+(flow probe at 0.5)
+
+aortic pressure transducer advanced to 20cm
+
+01:28:00 PM giving fluid
+
+01:31:18 PM 500 ml/hr phenylephrine to achieve baseline
+
+01:34:42 PM 250 ml/hr phenylephrine 
+
+01:35:58 PM 200 ml/hr phenylephrine
+
+01:37:16 PM holding; 100 ml/hr phenylephrine
+
+01:39:11 PM holding; 50 ml/hr phenylephrine
+
+01:43:32 PM 25 ml/hr phenylephrine
+
+01:46:59 PM respiratory period is 3 seconds
+
+01:47:29 PM cranked up anesthesia and phenylephrine to 100 ml/hr
+
+01:48:39 PM 50 ml/hr phenylephrine
+
+01:53:58 PM phenyleprine 100 ml/hr
+
+01:55:44 PM 75 ml/hr phenylephrine
+
+02:00:50 PM Beginning data collection
+
+02:01:03 PM (flow probe 0.6)
+
+open left pleura; lungs are inflated
+
+Markers Summary
+#0	Time: 6.9000 sec	Label: 20 cm
+#1	Time: 503.7280 sec	Label: 9cm
+#2	Time: 585.2800 sec	Label: 13cm
+#3	Time: 660.3480 sec	Label: 17cm
+#4	Time: 746.4120 sec	Label: 25cm
+#5	Time: 834.4720 sec	Label: 200 ml/hr phenylephrine
+#6	Time: 1020.1400 sec	Label: 175 ml/hr phenylephrine
+#7	Time: 1044.2280 sec	Label: holding phenylephrine
+#8	Time: 1074.0440 sec	Label: 150 ml/hr phenylephrine
+#9	Time: 1348.4680 sec	Label: 9cm
+#10	Time: 1430.3520 sec	Label: 13cm
+#11	Time: 1487.7440 sec	Label: 160 ml/hr phenylephrine
+#12	Time: 1514.7400 sec	Label: 17cm 
+#13	Time: 1596.8160 sec	Label: 21cm
+#14	Time: 1691.8560 sec	Label: 25cm
+#15	Time: 1748.8320 sec	Label: phenylephrine stopped
+#16	Time: 1809.6040 sec	Label: 225 ml/hr phenylephrine
+#17	Time: 1845.7760 sec	Label: 300 ml/hr phenylephrine
+#18	Time: 1886.9840 sec	Label: 200 ml/hr phenylephrine
+#19	Time: 2021.5760 sec	Label: 210 ml/hr phenylephrine
+#20	Time: 2161.6360 sec	Label: 200 ml/hr phenylephrine
+#21	Time: 2230.1880 sec	Label: 9cm
+#22	Time: 2301.7680 sec	Label: 210 ml/hr phenylephrine
+#23	Time: 2311.0680 sec	Label: 13cm
+#24	Time: 2392.0720 sec	Label: 17cm
+#25	Time: 2488.1200 sec	Label: 21cm
+#26	Time: 2560.6680 sec	Label: 25cm
+#27	Time: 2601.6640 sec	Label: 100 ml/hr phenyephrine
+#28	Time: 2897.3920 sec	Label: 120 ml/hr phenyleprhine
+#29	Time: 3078.4520 sec	Label: 1 ml bolus nitroglycerin
+#30	Time: 3112.0360 sec	Label: 10 ml/hr nitroglycerin
+#31	Time: 3185.2200 sec	Label: holding nitroglycerin
+#32	Time: 3221.7240 sec	Label: 10 ml/hr nitroglycerin
+#33	Time: 3441.1560 sec	Label: 9cm
+#34	Time: 3530.2920 sec	Label: 13cm
+#35	Time: 3559.7920 sec	Label: femoral flush
+#36	Time: 3593.8160 sec	Label: 17cm
+#37	Time: 3667.6360 sec	Label: 21cm
+#38	Time: 3743.4360 sec	Label: 25cm
+#39	Time: 3768.9720 sec	Label: 5ml/hr nitroglycerin
+#40	Time: 3872.4920 sec	Label: holding nitroglycerin
+#41	Time: 3943.1600 sec	Label: 5 ml/hr nitroglycerin
+#42	Time: 4203.4720 sec	Label: 1 ml/hr nitroglycerin
+#43	Time: 4421.7320 sec	Label: nitroglycerin off
+#44	Time: 4577.9880 sec	Label: 9cm
+#45	Time: 4646.0320 sec	Label: 13cm
+#46	Time: 4712.0240 sec	Label: 17cm
+#47	Time: 4782.5720 sec	Label: 21cm
+#48	Time: 4852.0640 sec	Label: 25cm
+#49	Time: 4952.5840 sec	Label: 20 ml/hr dobutamine
+#50	Time: 4959.8960 sec	Label: 200 ml/hr phenylephrine
+#51	Time: 5050.1160 sec	Label: bolus dobutamine to clear line
+#52	Time: 5172.1440 sec	Label: 9cm
+#53	Time: 5224.1120 sec	Label: suctioning
+#54	Time: 5298.7800 sec	Label: anesthesia was turned up
+#55	Time: 5324.0400 sec	Label: holding dobutamine
+#56	Time: 5516.3320 sec	Label: open left pleura; lungs are now enflated
+#57	Time: 5588.9240 sec	Label: 200 ml/hr phenylephrine
+#58	Time: 5759.1000 sec	Label: both pleura are opened at this point
+#59	Time: 5851.3000 sec	Label: anesthesia temporarily off
+#60	Time: 6025.5360 sec	Label: respiratory rate increased to 2 seconds
+#61	Time: 6144.4520 sec	Label: anesthesia is set to four at this point
+#62	Time: 6286.7240 sec	Label: beginning saline infusion
+#63	Time: 6549.9240 sec	Label: slowly flushing nitroglycerin line into pig
+#64	Time: 6627.0160 sec	Label: 40 ml/hr dobutamine
+#65	Time: 6666.3000 sec	Label: 20 ml/hr dobutamine
+#66	Time: 6700.3320 sec	Label: 30 ml/hr dobutamine
+#67	Time: 6865.1200 sec	Label: 250 ml/hr phenylephrine
+#68	Time: 6932.9280 sec	Label: aortic transducer currently at 9cm
+#69	Time: 6956.2160 sec	Label: 13cm
+#70	Time: 7025.3520 sec	Label: 300 ml/hr phenylephrine
+#71	Time: 7032.2560 sec	Label: 17cm
+#72	Time: 7103.3800 sec	Label: 21cm
+#73	Time: 7166.7360 sec	Label: 25cm
+#74	Time: 7203.3480 sec	Label: holding dobutamine
+#75	Time: 7265.5240 sec	Label: 15 ml/hr dobutamine
+#76	Time: 7339.9240 sec	Label: phenylephrine off (by accident)
+#77	Time: 7442.7680 sec	Label: 300 ml/hr phenylephrine
+#78	Time: 7600.6600 sec	Label: 10 ml/hr dobutamine
+#79	Time: 7703.9880 sec	Label: 9cm
+#80	Time: 7765.1240 sec	Label: 13cm
+#81	Time: 7828.8960 sec	Label: 17cm
+#82	Time: 7896.3640 sec	Label: 21cm
+#83	Time: 7962.4440 sec	Label: 25cm
+#84	Time: 8020.4040 sec	Label: 20 ml/hr dobutamine
+#85	Time: 8058.8040 sec	Label: 40 ml/hr dobutamine
+#86	Time: 8120.6880 sec	Label: stopped dobutamine
+#87	Time: 8205.0520 sec	Label: 400 ml/hr phenylephrine
+#88	Time: 8264.5240 sec	Label: 200 ml/hr esmolol
+#89	Time: 8282.1280 sec	Label: 500 ml/hr phenylephrine
+#90	Time: 8429.2120 sec	Label: 300 ml/hr esmolol
+#91	Time: 8600.8800 sec	Label: 500 ml/hr phenylephrine
+#92	Time: 8614.7640 sec	Label: 400 ml/hr esmolol
+#93	Time: 8685.9840 sec	Label: 500 ml/hr esmolol
+#94	Time: 8778.3840 sec	Label: 700 ml/hr phenylephrine
+#95	Time: 8793.2720 sec	Label: 9cm
+#96	Time: 8815.3400 sec	Label: 600 ml/hr esmolol
+#97	Time: 8894.3680 sec	Label: 800 ml/hr phenylephrine
+#98	Time: 8944.2640 sec	Label: esmolol off
+#99	Time: 9079.8440 sec	Label: 13cm
+#100	Time: 9146.0720 sec	Label: 17cm
+#101	Time: 9225.7160 sec	Label: 21cm
+#102	Time: 9311.0800 sec	Label: 25cm
+#103	Time: 9415.4680 sec	Label: phenylephrine off
+#104	Time: 9485.8760 sec	Label: suctioning
+#105	Time: 9489.5600 sec	Label: anesthesia to 5
+#106	Time: 9663.0920 sec	Label: calmping pulmonary artery
+#107	Time: 9733.7960 sec	Label: aorta clamped
+#108	Time: 9786.0680 sec	Label: 600 ml/hr esmolol
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+exp7 9   250.00 2524000
+exp7.dat 61    10.00/%02SAT 16 0 97 14023 0 O2Sat
+exp7.dat 61    10.00/Lpermin 16 0 13 -67 0 AF
+exp7.dat 61    10.00/degreesF 16 0 97 28599 0 Temp
+exp7.dat 61    10.00/Volts 16 0 -3 -24678 0 I
+exp7.dat 61    10.00/Pulse 16 0 -8 3631 0 Pulse
+exp7.dat 61    10.00/mmHg 16 0 69 -22155 0 FAP
+exp7.dat 61    10.00/mmHg 16 0 91 12678 0 CAP
+exp7.dat 61    10.00/mmHg 16 0 30 -4530 0 PAP
+exp7.dat 61    10.00/mmHg 16 0 82 21374 0 RAP
